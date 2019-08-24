@@ -1,0 +1,3 @@
+[submodule "Arcade/Intro"]
+	path = Arcade/Intro
+	url = https://github.com/manhitv/codesignal.git
